@@ -1,0 +1,2 @@
+//the prompt used
+identify and fix layout bugs. then Refactor it into a reusable component (e.g., Card(title, price, features)).
